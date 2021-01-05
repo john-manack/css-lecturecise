@@ -1,0 +1,22 @@
+html {
+    font-size: 32px;
+}
+
+div {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.wrapper {
+    background-color: green;
+    margin-bottom: 48px;
+}
+
+.wrapper.bg-gray {
+    background-color: gray;
+    margin-bottom: 96px;
+}
+
+.wrapper p.bg-pink {
+    background-color: pink;
+}
